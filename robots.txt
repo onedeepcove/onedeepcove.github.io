@@ -11,5 +11,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: http://www.deepcove.tk/sitemap.xml
-Sitemap: http://www.deepcove.tk/baidusitemap.xml
+Sitemap: http://onedeepcove.github.io/sitemap.xml
+Sitemap: http://onedeepcove.github.io/baidusitemap.xml
